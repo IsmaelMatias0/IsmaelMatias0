@@ -1,18 +1,19 @@
 <div align="center">
-<h1 align="center">Hello, I'm EdgarAl.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to the Developer of the Century: Ismael.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <div align="center">
-<img width="1050" alt="banner git" src="https://drive.google.com/file/d/1shP7a0zML3skYPRr8tgD9qC_fjKcpN9S/view?usp=sharing">
+<img width=75% alt="log" src="https://github.com/user-attachments/assets/f46bd7ca-d92d-4a67-9fc0-c669ba1ce2a0">
+
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/edgar-alvarez-checo?style=social)](https://github.com/edgar-alvarez-checo)
+[![GitHub followers](https://img.shields.io/github/followers/IsmaelMatias0?style=social)](https://github.com/ismael-duran)
 
 ---
 
 🌌 **Code Explorer & Idea Builder**
 
-I'm Edgar Álvarez, a **web and desktop application developer** passionate about turning ideas into functional and engaging experiences. My code does more than solve problems—it brings concepts to life!
+I'm Ismael Matías, a **web and desktop application developer** passionate about turning ideas into functional and engaging experiences. My code does more than solve problems—it brings concepts to life!
 
 ---
 
@@ -50,11 +51,11 @@ I'm always looking for new challenges and opportunities to improve my skills and
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=edgar-alvarez-checo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/IsmaelMatias0">
+    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=IsmaelMatias0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-alvarez-checo&theme=algolia"/>
+  <a href="https://github.com/IsmaelMatias0">
+    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelMatias0&theme=algolia"/>
   </a>
 </p>
 
@@ -66,8 +67,8 @@ I'm always exploring emerging technologies and design patterns. My goal: to comb
 ---
 
 ### 🤝 Connect with Me!
-> **Email:** edgaralvarez0227@gmail.com  
+> **Email:** matiasismael1000@gmail.com
 
 ---
 
-> 🌠 _"Coding is not just a skill, it's a journey into the unknown and the thrill of creating something from nothing."_ - Edgar Álvarez
+> 🌠 _"Coding is not just a skill, it's a journey into the unknown and the thrill of creating something from nothing."_ - Ismael Matias
