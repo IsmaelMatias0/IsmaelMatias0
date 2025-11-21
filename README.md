@@ -18,7 +18,7 @@ I'm Ismael Matías, a **web and desktop application developer** passionate about
 ---
 
 ## 👨🏻‍💻 About me 
-I'm a passionate web and desktop application developer with a specialization in **Java** and **Python**. I love building solutions that combine efficiency and creativity. I have experience in front-end and back-end technologies, including **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**, and **SQL Server**.
+I'm a passionate web and desktop application developer with a specialization in **Java** and **Python**. I love building solutions that combine efficiency and creativity. I have experience in front-end and back-end technologies, including **JavaScript**, **HTML**, **CSS**, **TS**, **MySQL**, and **SQL Server**.
 
 I'm always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
 
