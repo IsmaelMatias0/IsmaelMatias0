@@ -2,15 +2,6 @@
 <h1 align="center">Welcome to the Developer of the Century: Ismael.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-<div align="center">
-<img width=75% alt="log" src="https://github.com/user-attachments/assets/f46bd7ca-d92d-4a67-9fc0-c669ba1ce2a0">
-
-</div>
-
-[![GitHub followers](https://img.shields.io/github/followers/IsmaelMatias0?style=social)](https://github.com/ismael-duran)
-
----
-
 🌌 **Code Explorer & Idea Builder**
 
 I'm Ismael Matías, a **web and desktop application developer** passionate about turning ideas into functional and engaging experiences. My code does more than solve problems—it brings concepts to life!
